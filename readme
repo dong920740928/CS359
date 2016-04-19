@@ -1,0 +1,20 @@
+下面是各个作业对应的文件
+
+ex1 
+	cudaMallocAndMemcpy.cu
+	
+ex2 
+	myFirstKernel.cu
+	
+ex3
+	reverseArray_singleblock.cu 
+	reverseArray_multiblock.cu
+	reverseArray_multiblock_fast.cu
+	
+	(实验报告文件为report.pdf)
+	
+ex4 
+	matrixMulti.cu
+	
+ex5
+	matrixMulti_fast.cu
